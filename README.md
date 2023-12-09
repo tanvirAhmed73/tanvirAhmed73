@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/tanvir-ahmed-8034472a4(https://www.linkedin.com/in/tanvir-ahmed-8034472a4/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir-ahmed-ba7623112" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/tanvir-ahmed-8034472a4"(https://www.linkedin.com/in/tanvir-ahmed-8034472a4/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir-ahmed-ba7623112" height="30" width="40" /></a>
 <a href="https://fb.com/tanvirahmed.shojib.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvirahmed.shojib.94" height="30" width="40" /></a>
 </p>
 
