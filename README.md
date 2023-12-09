@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirahmed73&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirahmed73" /> </p>
 
-- 🔭 I’m currently working on [Horizon](https://github.com/tanvirAhmed73/Horizon-ecommerce-client-site-code)
+- 🔭 I’m currently working on : [Horizon](https://github.com/tanvirAhmed73/Horizon-ecommerce-client-site-code)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning : **Next.js**
 
-- 💬 Ask me about **You Can Ask Me Anything About MERN stack development**
+- 💬 Any Question :  **You Can Ask Me Anything About MERN stack development**
 
-- 📫 How to reach me **tanvir734215@gmail.com**
+- 📫 How to reach me : **tanvir734215@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
