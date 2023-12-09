@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning : **Next.js**
 
-- 💬 Any Question :  **You Can Ask Me Anything About MERN stack development**
+- 💬 Ask Me :  **Anything About MERN stack development**
 
 - 📫 How to reach me : **tanvir734215@gmail.com**
 
