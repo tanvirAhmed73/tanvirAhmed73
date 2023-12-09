@@ -1,3 +1,4 @@
+![logo](https://github.com/tanvirAhmed73/tanvirAhmed73/blob/main/Screenshot%20(21).png)
 <h1 align="center">Hi 👋, I'm Tanvir Ahmed</h1>
 <h3 align="center">A fervent junior MERN Stack Developer and Front-End Web Developer. With a strong command of the MERN stack—MongoDB, Express.js, React, and Node.js—I'm dedicated to crafting seamless, robust, and scalable applications. On the front end, I specialize in translating design concepts into dynamic and responsive interfaces that captivate users. Passionate about marrying code with creativity, I'm on a journey to create digital experiences that leave a lasting impression.</h3>
 
