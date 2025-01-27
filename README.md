@@ -3,7 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+Web-developer..!+%26;.)](https://git.io/typing-svg)
 
 
-<h3 align="left">A fervent junior MERN Stack Developer and Front-End Web Developer. With a strong command of the MERN stack—MongoDB, Express.js, React, and Node.js—I'm dedicated to crafting seamless, robust, and scalable applications. On the front end, I specialize in translating design concepts into dynamic and responsive interfaces that captivate users. Passionate about marrying code with creativity, I'm on a journey to create digital experiences that leave a lasting impression.</h3>
+<h3 align="left">I am a dedicated junior MERN Stack Developer with a strong foundation in MongoDB, Express.js, React, and Node.js. I thrive on building scalable, high-performance applications that solve real-world problems. On the front end, I specialize in creating dynamic and responsive user interfaces that bring design concepts to life and engage users effectively.
+
+Passionate about the fusion of technology and creativity, I’m committed to crafting seamless digital experiences that leave a lasting impact. Whether developing powerful backend services or intuitive front-end interfaces, my goal is always to deliver solutions that are both functional and delightful.
+
+I'm continuously learning and growing, eager to expand my skills and contribute to innovative projects.</h3>
 
 
 - 🌱 I’m currently learning : **Python**
