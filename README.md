@@ -5,7 +5,6 @@
 
 <h3 align="left">A fervent junior MERN Stack Developer and Front-End Web Developer. With a strong command of the MERN stack—MongoDB, Express.js, React, and Node.js—I'm dedicated to crafting seamless, robust, and scalable applications. On the front end, I specialize in translating design concepts into dynamic and responsive interfaces that captivate users. Passionate about marrying code with creativity, I'm on a journey to create digital experiences that leave a lasting impression.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirahmed73&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirahmed73" /> </p>
 
 - 🔭 I’m currently working on : [Horizon](https://github.com/tanvirAhmed73/Horizon-ecommerce-client-site-code)
 
