@@ -18,7 +18,7 @@
 <a href="https://fb.com/tanvirahmed.shojib.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvirahmed.shojib.94" height="30" width="40" /></a>
 </p>
 
-## **My Skills :octocat:**
+## **Tech Stack 🛠️**
 
 <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
