@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on : [Horizon](https://github.com/tanvirAhmed73/Horizon-ecommerce-client-site-code)
 
-- 🌱 I’m currently learning : **Next.js**
+- 🌱 I’m currently learning : **Python**
 
 - 💬 Ask Me :  **Anything About MERN stack development**
 
