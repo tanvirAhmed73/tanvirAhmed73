@@ -10,10 +10,6 @@ Passionate about the fusion of technology and creativity, I’m committed to cra
 I'm continuously learning and growing, eager to expand my skills and contribute to innovative projects.</h3>
 
 
-- 🌱 I’m currently learning : **Python**
-
-- 💬 Ask Me :  **Anything About MERN stack development**
-
 - 📫 How to reach me : **tanvir.073.ahmed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
